@@ -1,0 +1,7 @@
+C:\Users\mastanvali\Desktop\dvsazbatch1\output\dvsazbatch1.exe
+C:\Users\mastanvali\Desktop\dvsazbatch1\output\appsettings.Development.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\output\appsettings.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\output\dvsazbatch1.dll
+C:\Users\mastanvali\Desktop\dvsazbatch1\output\dvsazbatch1.deps.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\output\dvsazbatch1.runtimeconfig.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\output\dvsazbatch1.pdb
