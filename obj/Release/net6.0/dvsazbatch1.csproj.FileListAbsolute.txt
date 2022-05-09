@@ -24,3 +24,9 @@ C:\Users\mastanvali\Desktop\dvsazbatch1\obj\Release\net6.0\dvsazbatch1.dll
 C:\Users\mastanvali\Desktop\dvsazbatch1\obj\Release\net6.0\ref\dvsazbatch1.dll
 C:\Users\mastanvali\Desktop\dvsazbatch1\obj\Release\net6.0\dvsazbatch1.pdb
 C:\Users\mastanvali\Desktop\dvsazbatch1\obj\Release\net6.0\dvsazbatch1.genruntimeconfig.cache
+C:\Users\mastanvali\Desktop\dvsazbatch1\bin\Release\net6.0\output\web.config
+C:\Users\mastanvali\Desktop\dvsazbatch1\bin\Release\net6.0\appversions.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\bin\Release\net6.0\output\appsettings.Development.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\bin\Release\net6.0\output\appsettings.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\bin\Release\net6.0\output\dvsazbatch1.deps.json
+C:\Users\mastanvali\Desktop\dvsazbatch1\bin\Release\net6.0\output\dvsazbatch1.runtimeconfig.json
